@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/secondhomework_pages/MenuItem.kt">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/secondhomework_pages/MenuItem.kt" />
+              <option name="updatedContent" value="package com.example.secondhomework_pages&#10;&#10;data class MenuItem(&#10;    val icon: Int,  // 左侧图标资源 ID&#10;    val title: String  // 标题文字&#10;)&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/apple_icon.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/apple_icon.xml" />
+              <option name="updatedContent" value="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:width=&quot;24dp&quot;&#10;    android:height=&quot;24dp&quot;&#10;    android:viewportWidth=&quot;24&quot;&#10;    android:viewportHeight=&quot;24&quot;&gt;&#10;  &lt;path&#10;      android:fillColor=&quot;#000000&quot;&#10;      android:pathData=&quot;M17.9,12.4c0.1,-1.5 -0.6,-2.9 -1.8,-3.8 -1.2,-0.9 -2.8,-1.2 -4.2,-0.6 -1.4,0.6 -2.4,1.9 -2.4,3.4 0,0.1 0,0.2 0,0.3 -0.1,0 -0.2,0 -0.2,0 -1.5,0 -2.9,0.6 -3.9,1.8 -1,1.2 -1.3,2.8 -0.7,4.3 0.6,1.5 1.9,2.5 3.5,2.5 0.1,0 0.2,0 0.3,0 0.1,0 0.2,0 0.2,0 1.5,0 2.9,-0.6 3.9,-1.8 1,-1.2 1.3,-2.8 0.7,-4.3 -0.1,-0.2 -0.2,-0.4 -0.4,-0.6 0.2,-0.1 0.4,-0.2 0.6,-0.4 0.5,-0.5 0.8,-1.2 0.8,-1.9zM12,2C6.5,2 2,6.5 2,12s4.5,10 10,10 10,-4.5 10,-10S17.5,2 12,2zM12,20c-4.4,0 -8,-3.6 -8,-8s3.6,-8 8,-8 8,3.6 8,8 -3.6,8 -8,8z&quot;/&gt;&#10;&lt;/vector&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/apple_icon_resized.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/apple_icon_resized.xml" />
+              <option name="originalContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;layer-list xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&gt;&#10;    &lt;item&#10;        android:drawable=&quot;@drawable/apple&quot;&#10;        android:width=&quot;24dp&quot;&#10;        android:height=&quot;24dp&quot;&#10;        android:gravity=&quot;center&quot; /&gt;&#10;&lt;/layer-list&gt;" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;layer-list xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&gt;&#10;    &lt;item&#10;        android:drawable=&quot;@drawable/apple&quot;&#10;        android:width=&quot;24dp&quot;&#10;        android:height=&quot;24dp&quot;&#10;        android:gravity=&quot;center&quot; /&gt;&#10;&lt;/layer-list&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/avatar_circle_bg.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/avatar_circle_bg.xml" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:shape=&quot;oval&quot;&gt;&#10;    &lt;solid android:color=&quot;#CCCCCC&quot; /&gt;&#10;&lt;/shape&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:shape=&quot;rectangle&quot;&gt;&#10;    &lt;solid android:color=&quot;#F2F2F7&quot; /&gt;&#10;    &lt;corners android:radius=&quot;8dp&quot; /&gt;&#10;&lt;/shape&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/button_login_background.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/button_login_background.xml" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:shape=&quot;rectangle&quot;&gt;&#10;    &lt;solid android:color=&quot;#007AFF&quot; /&gt;&#10;    &lt;corners android:radius=&quot;8dp&quot; /&gt;&#10;&lt;/shape&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/edittext_background.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/edittext_background.xml" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:shape=&quot;rectangle&quot;&gt;&#10;    &lt;solid android:color=&quot;#F2F2F7&quot; /&gt;&#10;    &lt;corners android:radius=&quot;8dp&quot; /&gt;&#10;&lt;/shape&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_email.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/ic_email.xml" />
+              <option name="updatedContent" value="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:width=&quot;24dp&quot;&#10;    android:height=&quot;24dp&quot;&#10;    android:viewportWidth=&quot;24&quot;&#10;    android:viewportHeight=&quot;24&quot;&#10;    android:tint=&quot;#999999&quot;&gt;&#10;  &lt;path&#10;      android:fillColor=&quot;@android:color/white&quot;&#10;      android:pathData=&quot;M20,4H4c-1.1,0 -1.99,0.9 -1.99,2L2,18c0,1.1 0.9,2 2,2h16c1.1,0 2,-0.9 2,-2V6c0,-1.1 -0.9,-2 -2,-2zM20,8l-8,5 -8,-5V6l8,5 8,-5v2z&quot;/&gt;&#10;&lt;/vector&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_eye.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/ic_eye.xml" />
+              <option name="updatedContent" value="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:width=&quot;24dp&quot;&#10;    android:height=&quot;24dp&quot;&#10;    android:viewportWidth=&quot;24&quot;&#10;    android:viewportHeight=&quot;24&quot;&#10;    android:tint=&quot;#999999&quot;&gt;&#10;  &lt;path&#10;      android:fillColor=&quot;@android:color/white&quot;&#10;      android:pathData=&quot;M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z&quot;/&gt;&#10;&lt;/vector&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_lock.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/ic_lock.xml" />
+              <option name="updatedContent" value="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:width=&quot;24dp&quot;&#10;    android:height=&quot;24dp&quot;&#10;    android:viewportWidth=&quot;24&quot;&#10;    android:viewportHeight=&quot;24&quot;&#10;    android:tint=&quot;#999999&quot;&gt;&#10;  &lt;path&#10;      android:fillColor=&quot;@android:color/white&quot;&#10;      android:pathData=&quot;M18,8h-1V6c0,-2.76 -2.24,-5 -5,-5S7,3.24 7,6v2H6c-1.1,0 -2,0.9 -2,2v10c0,1.1 0.9,2 2,2h12c1.1,0 2,-0.9 2,-2V10c0,-1.1 -0.9,-2 -2,-2zM12,17c-1.1,0 -2,-0.9 -2,-2s0.9,-2 2,-2 2,0.9 2,2 -0.9,2 -2,2zM15.1,8H8.9V6c0,-1.71 1.39,-3.1 3.1,-3.1s3.1,1.39 3.1,3.1v2z&quot;/&gt;&#10;&lt;/vector&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_wechat.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable/ic_wechat.xml" />
+              <option name="updatedContent" value="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:width=&quot;24dp&quot;&#10;    android:height=&quot;24dp&quot;&#10;    android:viewportWidth=&quot;48&quot;&#10;    android:viewportHeight=&quot;48&quot;&gt;&#10;  &lt;path&#10;      android:fillColor=&quot;#09BB07&quot;&#10;      android:pathData=&quot;M24,4C12.95,4 4,12.95 4,24s8.95,20 20,20 20,-8.95 20,-20S35.05,4 24,4zM36.14,26.86c-0.47,1.4 -1.36,2.63 -2.53,3.59 -1.17,0.96 -2.56,1.64 -4.1,1.98 -1.54,0.34 -3.1,0.34 -4.62,0 -1.52,-0.34 -2.91,-1.02 -4.08,-1.98 -1.17,-0.96 -2.06,-2.19 -2.53,-3.59 -0.47,-1.4 -0.59,-2.87 -0.34,-4.31 0.25,-1.44 0.85,-2.79 1.74,-3.96s2.04,-2.12 3.38,-2.78c1.34,-0.66 2.82,-0.99 4.31,-0.99s2.97,0.33 4.31,0.99c1.34,0.66 2.49,1.61 3.38,2.78s1.49,2.52 1.74,3.96c0.25,1.44 0.13,2.91 -0.34,4.31z&quot;/&gt;&#10;  &lt;path&#10;      android:fillColor=&quot;#FFFFFF&quot;&#10;      android:pathData=&quot;M29.9,20.55c-0.6,-0.49 -1.3,-0.79 -2.05,-0.93 -0.75,-0.14 -1.52,-0.11 -2.27,0.09 -0.75,0.2 -1.45,0.57 -2.05,1.08 -0.6,0.51 -1.09,1.15 -1.42,1.88 -0.33,0.73 -0.49,1.52 -0.46,2.31 0.03,0.79 0.25,1.56 0.63,2.26 0.38,0.7 0.91,1.31 1.56,1.79 0.65,0.48 1.39,0.82 2.19,0.99 0.8,0.17 1.62,0.17 2.42,0 0.8,-0.17 1.54,-0.51 2.19,-0.99 0.65,-0.48 1.18,-1.09 1.56,-1.79 0.38,-0.7 0.6,-1.47 0.63,-2.26 0.03,-0.79 -0.13,-1.58 -0.46,-2.31 -0.33,-0.73 -0.82,-1.37 -1.42,-1.88zM28.04,24.84c-0.2,0.37 -0.47,0.68 -0.8,0.91s-0.7,0.39 -1.1,0.46c-0.4,0.07 -0.81,0.07 -1.21,0s-0.76,-0.23 -1.09,-0.46 -0.59,-0.54 -0.79,-0.91 -0.33,-0.78 -0.36,-1.21 0.01,-0.86 0.18,-1.26c0.17,-0.4 0.43,-0.75 0.75,-1.03s0.69,-0.48 1.09,-0.6c0.4,-0.12 0.81,-0.15 1.21,-0.09 0.4,0.06 0.79,0.21 1.13,0.45 0.34,0.24 0.63,0.56 0.84,0.94 0.21,0.38 0.34,0.81 0.36,1.25s-0.04,0.89 -0.21,1.31z&quot;/&gt;&#10;&lt;/vector&gt;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+              <option name="originalContent" value="&lt;resources xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;&#10;    &lt;!-- Base application theme. --&gt;&#10;    &lt;style name=&quot;Base.Theme.SecondHomework_pages&quot; parent=&quot;Theme.Material3.DayNight.NoActionBar&quot;&gt;&#10;        &lt;!-- Customize your light theme here. --&gt;&#10;        &lt;!-- &lt;item name=&quot;colorPrimary&quot;&gt;@color/my_light_primary&lt;/item&gt; --&gt;&#10;    &lt;/style&gt;&#10;&#10;    &lt;style name=&quot;Theme.SecondHomework_pages&quot; parent=&quot;Base.Theme.SecondHomework_pages&quot; /&gt;&#10;&lt;/resources&gt;" />
+              <option name="updatedContent" value="&lt;resources xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;&#10;    &lt;!-- Base application theme. --&gt;&#10;    &lt;style name=&quot;Base.Theme.SecondHomework_pages&quot; parent=&quot;Theme.Material3.DayNight.NoActionBar&quot;&gt;&#10;        &lt;!-- Customize your light theme here. --&gt;&#10;        &lt;!-- &lt;item name=&quot;colorPrimary&quot;&gt;@color/my_light_primary&lt;/item&gt; --&gt;&#10;    &lt;/style&gt;&#10;&#10;    &lt;style name=&quot;Theme.SecondHomework_pages&quot; parent=&quot;Base.Theme.SecondHomework_pages&quot; /&gt;&#10;&#10;    &lt;!-- 圆形头像样式 --&gt;&#10;    &lt;style name=&quot;CircleImageView&quot;&gt;&#10;        &lt;item name=&quot;cornerFamily&quot;&gt;rounded&lt;/item&gt;&#10;        &lt;item name=&quot;cornerSize&quot;&gt;50%&lt;/item&gt;&#10;    &lt;/style&gt;&#10;&lt;/resources&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">secondHomework_pages</string>
+    <string name="welcome">欢迎登录</string>
+    <string name="please_login">请登录您的账户</string>
+    <string name="hint_email">请输入邮箱</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="forget_password">忘记密码？</string>
+    <string name="or">或者</string>
+    <string name="wechat_login">微信登录</string>
+    <string name="apple_login">Apple登录</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Register">请注册您的帐号</string>
+    <string name="Register1">填写您的邮箱和密码</string>
+</resources>
